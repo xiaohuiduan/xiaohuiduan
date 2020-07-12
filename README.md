@@ -8,8 +8,6 @@ Ahh，this is a short presentation of me. I'm a undergraduate majoring in THE IN
 
 :writing_hand:https://www.cnblogs.com/xiaohuiduan/
 
-Also , you can reach me by Wechat  :![](imgs/image-20200712142720300.png)
-
-
+Also , you can reach me by Wechat  : `XHuiDuan`
 
 Do things that are interesting and meaningful [@Mikejiawei](https://github.com/Mikejiawei)
