@@ -1,16 +1,15 @@
-### Hi there 👋
+I'm there 👋
 
-<!--
-**xiaohuiduan/xiaohuiduan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ahh，this is a short presentation of me. I'm a undergraduate majoring in THE INTERNET OF THING.  
 
-Here are some ideas to get you started:
+:e-mail: xiaohuiduan@smail.hunnu.edu.cn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:heart:Deep Leaning , Generative Adversarial Nets and Reinforcement learning
+
+:writing_hand:https://www.cnblogs.com/xiaohuiduan/
+
+Also , you can reach me by Wechat  :![](imgs/image-20200712142720300.png)
+
+
+
+Do things that are interesting and meaningful [@Mikejiawei](https://github.com/Mikejiawei)
