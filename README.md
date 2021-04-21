@@ -11,3 +11,5 @@ Ahh，this is a short presentation of I. I'm a undergraduate majoring in THE INT
 Also , you can reach me by Wechat  : `XHuiDuan`
 
 Do things that are interesting and meaningful [@Mikejiawei](https://github.com/Mikejiawei)
+
+[![Xiaohui's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohuiduan)](https://github.com/anuraghazra/github-readme-stats)
