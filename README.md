@@ -1,6 +1,6 @@
 I'm there 👋
 
-Ahh，this is a short presentation of I. I'm a undergraduate majoring in THE INTERNET OF THING.  
+Ahh，this is a short presentation about the owner. I'm a undergraduate majoring in THE INTERNET OF THING.  
 
 :e-mail: xiaohuiduan@smail.hunnu.edu.cn
 
