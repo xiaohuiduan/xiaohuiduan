@@ -1,6 +1,6 @@
 I'm there 👋
 
-Ahh，this is a short presentation about the owner. I'm a undergraduate majoring in THE INTERNET OF THING.  
+Ahh，this is a short presentation about the owner. I'm a postgraduate in the UCAS, majoring in pattern recognition and machine learning.
 
 :e-mail: xiaohuiduan@smail.hunnu.edu.cn
 
@@ -10,6 +10,6 @@ Ahh，this is a short presentation about the owner. I'm a undergraduate majoring
 
 Also , you can reach me by Wechat  : `XHuiDuan`
 
-Do things that are interesting and meaningful [@Mikejiawei](https://github.com/Mikejiawei)
+Do things that are interesting and meaningful.
 
 [![Xiaohui's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohuiduan)](https://github.com/anuraghazra/github-readme-stats)
