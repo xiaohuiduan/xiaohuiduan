@@ -2,7 +2,7 @@ I'm there 👋
 
 Ahh，this is a short presentation about the owner. I'm a postgraduate in the UCAS, majoring in pattern recognition and machine learning.
 
-:e-mail: xiaohuiduan@smail.hunnu.edu.cn
+:e-mail: xiaohuiduan@hunnu.edu.cn
 
 :heart:Deep Leaning , Generative Adversarial Nets and Reinforcement learning
 
